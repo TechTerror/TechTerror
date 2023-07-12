@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TechTerror
-- 👀 I’m interested in gaming
-- 🌱 I’m currently learning C#
+- 💀 Hi, I’m @TechTerror
+- 💀 I’m interested in gaming
+- 💀 I’m currently learning C# + Lua
 
 <!---
 TechTerror/TechTerror is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
